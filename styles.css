@@ -20,7 +20,7 @@ html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--texto-oscuro);
 }
-
+/* Configuracion base del documento */
 .container {
   width: 90%;
   max-width: 1100px;
