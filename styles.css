@@ -29,6 +29,7 @@ html {
 
 /* a. HEADER (Flexbox) */
 .header {
+  /* Estilos del encabezado */
   background-color: var(--blanco);
   border-bottom: 2px solid var(--rosa-medio);
   position: sticky;
