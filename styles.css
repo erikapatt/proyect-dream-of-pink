@@ -8,7 +8,7 @@
   --texto-suave: #6e5a60;
   --blanco: #ffffff;
 }
-
+/* Reinicio de estilos generales*/
 * {
   box-sizing: border-box;
   margin: 0;
